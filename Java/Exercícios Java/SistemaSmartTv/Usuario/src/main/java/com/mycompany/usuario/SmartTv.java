@@ -55,5 +55,6 @@ public class SmartTv {
     
     public void mudarCanal (int novoCanal){
         canal=novoCanal;
+        
     }
 }
